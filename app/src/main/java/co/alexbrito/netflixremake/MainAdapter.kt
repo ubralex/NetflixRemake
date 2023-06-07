@@ -1,4 +1,4 @@
-package co.tiagoaguiar.netflixremake
+package co.alexbrito.netflixremake
 
 import android.view.LayoutInflater
 import android.view.View
